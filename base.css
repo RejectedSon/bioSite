@@ -10,6 +10,20 @@ body {
 background-color: #3A63EA;
 }
 
+.column {
+float: left;
+width: 500px;
+}
+
+.textBlock {
+background-color: #3A63EA;
+color: #FFFFFF;
+float: left;
+width: 500px;
+height: 456px;
+padding: 25px;
+}
+
 .Row1of3, .Row2of3, .Row3of3 {
     background-color: #F5EF69;
     width: 500px;
