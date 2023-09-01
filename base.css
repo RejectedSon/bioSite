@@ -29,11 +29,11 @@ padding: 25px;
     width: 500px;
     height: 500px;
     float: left;
-    border: 3px solid purple;
     }
 
 figcaption {
     background-color: #3CDB40;
+    width: 400px;
     }
 
 .navbar {
